@@ -1,0 +1,17 @@
+/* home.component.scss */
+
+.card {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  max-height: 200px;
+  object-fit: cover;
+}
+
+.btn {
+  margin-top: 10px;
+}
